@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Applicazione_Matematica</string>
+    <string name="title_activity_sistemi_lineari">SistemiLineari</string>
+    <string name="title_activity_logaritmi">Logaritmi</string>
+</resources>
